@@ -2,7 +2,7 @@
 
 ##### INTRODUCTION
 
-The purpose of this project was to let everyone access to our shutterbugs picture gallery in an efficient manner along with keeping the albums save and managed in club's google drive.
+The purpose of this project was to let everyone view our shutterbugs' picture gallery in an efficient manner along with keeping the albums safe and managed in club's google drive.
 
 Shutterbug contains data in TBs hence it was not feasible to store that data in any kind of database and creating APIs for accessing it. Moreover as many number social and academic events happens very semester updating that database and managing it would been difficult.
 
